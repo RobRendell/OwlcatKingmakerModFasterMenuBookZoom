@@ -1,0 +1,10 @@
+{
+  "Id": "FasterMenuBookZoom",
+  "DisplayName": "Faster Menu Book Zoom",
+  "Author": "RobRendell",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.12.2",
+  "EntryMethod": "FasterMenuBookZoom.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pathfinderkingmaker/mods/67",
+  "Repository": "https://raw.githubusercontent.com/RobRendell/OwlcatKingmakerModFasterMenuBookZoom/master/Repository.json"
+}
